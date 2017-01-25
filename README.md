@@ -1,2 +1,2 @@
 # PiCalculating
-Methods for computing pi.
+##Infintie series methods for computing pi.
